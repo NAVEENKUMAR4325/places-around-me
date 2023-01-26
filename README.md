@@ -48,7 +48,13 @@ Execute the program
 
 
 ## Output:
-Include your output screenshot here
+### mapped places
+
+[MAPPED_PLACES](images/mapped.png)
+
+### about places
+
+[About_places](images/aboutmap.png)
 
 ## Result:
-Write your result
+Created a website to display details about the places around my house created successfully.
