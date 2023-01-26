@@ -50,11 +50,11 @@ Execute the program
 ## Output:
 ### mapped places
 
-![maps](picture/mapped.png)
+![mapped](https://user-images.githubusercontent.com/119479566/214820398-0a532f7b-7978-46e8-84d3-121c8c7c147d.png)
 
 ### about places
 
-![about](picture/aboutmap.png)
+![about map](https://user-images.githubusercontent.com/119479566/214820470-13a7d268-4116-4606-86fb-63c17aa87d25.png)
 
 ## Result:
 Created a website to display details about the places around my house created successfully.
